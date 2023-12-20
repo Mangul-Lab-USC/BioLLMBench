@@ -1,4 +1,4 @@
-Welcome to the code for our paper, BioLLMBench: A Comprehensive Benchmarking of Large Language Models in Bioinformatics
+Welcome to the GitHub repo for our paper, BioLLMBench: A Comprehensive Benchmarking of Large Language Models in Bioinformatics
 
 Access the raw output of the language models in the directory Data
 
